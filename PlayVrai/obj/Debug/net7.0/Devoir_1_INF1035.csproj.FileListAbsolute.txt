@@ -1,0 +1,127 @@
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\DELL\RiderProjects\Devoir_1_INF1035\Devoir_1_INF1035\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\devoir_1_inf1035\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\DevoirJeuDePeche\Devoir_1_INF1035\devoir_1_inf1035\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\djma2312\Downloads\Devoir_1_INF1035\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\djma2312\Downloads\ttt\Devoir_1_INF1035 Fini\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035 Fini\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Devoir_1_INF1035 Fini (1)\Devoir_1_INF1035Fini\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Play\bin\Debug\net7.0\Devoir_1_INF1035.exe
+C:\Users\Lenovo\OneDrive\Documentos\Play\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+C:\Users\Lenovo\OneDrive\Documentos\Play\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documentos\Play\bin\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Play\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documentos\Play\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\bin\Debug\net7.0\Devoir_1_INF1035.exe
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\bin\Debug\net7.0\Devoir_1_INF1035.deps.json
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\bin\Debug\net7.0\Devoir_1_INF1035.runtimeconfig.json
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\bin\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\bin\Debug\net7.0\Devoir_1_INF1035.pdb
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfoInputs.cache
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.AssemblyInfo.cs
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.csproj.CoreCompileInputs.cache
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\refint\Devoir_1_INF1035.dll
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.pdb
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\Devoir_1_INF1035.genruntimeconfig.cache
+c:\Users\djma2312\Downloads\PlayVrai\PlayVrai\obj\Debug\net7.0\ref\Devoir_1_INF1035.dll
